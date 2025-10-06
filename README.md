@@ -25,7 +25,7 @@
 ---
 
 ### 👨‍💻 About Me
-⚡️ Check out my Portfolio 🔗 https://app.netlify.com/
+⚡️ Check out my Portfolio 🔗 
 - 🔭 I’m currently working on scalable cloud-native applications
 - 🌱 I’m currently deepening my knowledge in Distributed Systems and AWS Solutions Architecture
 - 👯 I’m looking to collaborate on open-source projects and innovative startups
