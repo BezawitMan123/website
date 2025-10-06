@@ -1,5 +1,5 @@
 ..????, [06/10/2025 06:47]
-## Hey there 👋 I'm Dagne Aydenfu
+## Hey there 👋 I'm Bezawit zelalem
 
 <h3 align="center">A passionate Full-Stack Software Engineer from Ethiopia</h3>
 
@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/DagneMan123">
+  <a href="https://linkedin.com/in/BezawitMan123">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:aydenfudagne@gmail.com">
+  <a href="mailto:Bezazola8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://x.com/DagneMan123">
+  <a href="https://x.com/BezawitMan123">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="[Your Portfolio URL]">
@@ -30,7 +30,7 @@
 - 🌱 I’m currently deepening my knowledge in Distributed Systems and AWS Solutions Architecture
 - 👯 I’m looking to collaborate on open-source projects and innovative startups
 - 💬 Ask me about React, Node.js, Cloud Computing, or Database design
-- 📫 How to reach me: aydenfudagne@gmail.com
+- 📫 How to reach me: Bezazola8@gmail.com
 - ⚡️ Fun fact: I enjoy solving complex algorithms and contributing to developer communities.
 
 ---
@@ -88,11 +88,11 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DagneMan123&label=Profile%20Views&color=0e75b6&style=flat" alt="DagneMan123" />
+  <img src="https://komarev.com/ghpvc/?username=BezawitMan123&label=Profile%20Views&color=0e75b6&style=flat" alt="BezawitMan123" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DagneMan123?tab=repositories">
+  <a href="https://github.com/BezawitMan123?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My_Repositories-22B4DE?style=for-the-badge&logo=github" alt="Explore Repositories"/>
   </a>
 </p>
