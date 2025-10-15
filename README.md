@@ -1,4 +1,4 @@
-..????, [06/10/2025 06:47]
+
 ## Hey there 👋 I'm Bezawit zelalem
 
 <h3 align="center">A passionate Full-Stack Software Engineer from Ethiopia</h3>
@@ -19,6 +19,8 @@
   </a>
   <a href="[Your Portfolio URL]">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cn3Oi3LWIPfZZlxzoa95bI-gRgSm8Gbkzg&s"/>
+    
   </a>
 </p>
 
