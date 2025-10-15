@@ -19,8 +19,7 @@
   </a>
   <a href="[Your Portfolio URL]">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-    <img src="<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/118613e1-fb9e-4135-8a42-6958e6863176" />
-"/>
+    <img src="https://github.com/user-attachments/assets/118613e1-fb9e-4135-8a42-6958e6863176" />
     
   </a>
 </p>
@@ -65,7 +64,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DagneMan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BezawiteMan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -81,7 +80,7 @@
 ---
 
 ### 📈 Activity Graph
-[![Dagne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[!Bezawite github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BezawiteMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
