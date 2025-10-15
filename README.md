@@ -19,7 +19,8 @@
   </a>
   <a href="[Your Portfolio URL]">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cn3Oi3LWIPfZZlxzoa95bI-gRgSm8Gbkzg&s"/>
+    <img src="<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/118613e1-fb9e-4135-8a42-6958e6863176" />
+"/>
     
   </a>
 </p>
