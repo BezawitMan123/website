@@ -19,7 +19,7 @@
   </a>
   <a href="[Your Portfolio URL]">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-    <img src="![Uploading image.png…]!()
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*cfmRtbFOaB8q1Icn8EBsjw.png"
  />
     
   </a>
